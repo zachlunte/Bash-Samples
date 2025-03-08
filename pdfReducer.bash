@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-FILE='/Users/zpl/Desktop/1891AD-Arthur-Edward-Waite-The-Occult-Sciences.pdf'
+FILE='/Users/zpl/Desktop/book1.pdf'
 NUMPAGES=312
 COUNTER=0
 mkdir pdf2pngs.temp
